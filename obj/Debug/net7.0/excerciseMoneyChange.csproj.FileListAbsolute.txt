@@ -1,0 +1,15 @@
+/Users/nicoleavila/Projects/excerciseMoneyChange/bin/Debug/net7.0/excerciseMoneyChange
+/Users/nicoleavila/Projects/excerciseMoneyChange/bin/Debug/net7.0/excerciseMoneyChange.deps.json
+/Users/nicoleavila/Projects/excerciseMoneyChange/bin/Debug/net7.0/excerciseMoneyChange.runtimeconfig.json
+/Users/nicoleavila/Projects/excerciseMoneyChange/bin/Debug/net7.0/excerciseMoneyChange.dll
+/Users/nicoleavila/Projects/excerciseMoneyChange/bin/Debug/net7.0/excerciseMoneyChange.pdb
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.csproj.AssemblyReference.cache
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.AssemblyInfoInputs.cache
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.AssemblyInfo.cs
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.csproj.CoreCompileInputs.cache
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.dll
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/refint/excerciseMoneyChange.dll
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.pdb
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/excerciseMoneyChange.genruntimeconfig.cache
+/Users/nicoleavila/Projects/excerciseMoneyChange/obj/Debug/net7.0/ref/excerciseMoneyChange.dll
